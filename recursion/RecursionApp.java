@@ -6,6 +6,7 @@ public class RecursionApp {
 	
 	public static void recursion(int n, double x, double y, double size)
 	{
+		//This is a comment to test my Git GUI
 		if(n == 0)return;
 		double x0 = x - size/2;
 		double x1 = x + size/2;
